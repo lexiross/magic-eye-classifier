@@ -1,6 +1,6 @@
 // TODO update path when new version on npm
 const MagicEye = require("../MagicEye.js/magiceye.js").MagicEye;
-const SAMPLES_PER_DIGIT = 2; // TODO update to 100 for actual data collection
+const SAMPLES_PER_DIGIT = 100;
 const DIGIT_COUNT = 10;
 const WIDTH = 400;
 const HEIGHT = 400;
