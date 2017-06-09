@@ -4,26 +4,8 @@ const {Noise} = require("noisejs");
 const noise = new Noise(Math.random());
 
 const TUPPERWARE_WORDS = [
-  "new phone who dis",
-  "wyd ;)",
-  "u up?",
-  "poop",
-  "butt hole",
-  "fuck ur feelings",
-  "untz untz",
-  "q t pie",
-  "fart",
-  "heyyy",
-  "69",
-  "drugs",
-  "pool party",
-  "so high",
-  "dick library",
-  "fyre fest",
-  "all your fault",
-  "tyler gary",
-  "hannah neil",
-  "josh wentworth"
+  "redacted ;)",
+  "this never happened",
 ];
 const NUM_COLORS = 15;
 const WIDTH = 1280;
